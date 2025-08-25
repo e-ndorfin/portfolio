@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Portfolio'
+theme = 'archie'
+copyright = '© Zachary Tang'
+pygmentsstyle = 'monokai'
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+mode = 'auto'
+useCDN = false
+
+[[params.social]]
+name = 'GitHub'
+icon = 'github'
+url = 'https://github.com/yourusername'
+
+[[params.social]]
+name = 'Twitter'
+icon = 'twitter'
+url = 'https://twitter.com/yourusername'
+
+[[params.social]]
+name = 'CV'
+text = 'CV'
+icon = 'book'
+url = '/resume.pdf'
+
+[[menu.main]]
+name = 'Home'
+url = '/'
+weight = 1
