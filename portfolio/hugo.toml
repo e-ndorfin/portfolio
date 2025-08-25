@@ -14,7 +14,7 @@ useCDN = false
 [[params.social]]
 name = 'GitHub'
 icon = 'github'
-url = 'https://github.com/yourusername'
+url = 'https://github.com/e-ndorfin'
 
 [[params.social]]
 name = 'Twitter'
